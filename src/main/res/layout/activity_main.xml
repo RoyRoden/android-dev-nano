@@ -88,7 +88,7 @@
         android:onClick="sendMessage"
         android:layout_marginLeft="80dp"
         android:layout_marginRight="80dp"
-        android:background="#ffff005a"
+        android:background="#500095"
         android:layout_marginBottom="10dp"
         android:textColor="#ffffff"
         android:textSize="16sp" />
